@@ -3,7 +3,7 @@
 /*.iws
 /.classpath
 /.factorypath
-/.idea
+/*/.idea
 /.project
 /.settings
 /ibderby
